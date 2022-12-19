@@ -1,0 +1,18 @@
+.banner{
+    text-align:center;
+    background-color: aquamarine;
+    color:white;
+    margin: top 75px;
+    padding: 100px 0px;
+}
+#dogimg{
+    height:100px;
+    width:100px;
+}
+#doggy{
+    font-size: 100px;
+    color:aquamarine
+}
+.bold{
+    font-weight:900;
+}
